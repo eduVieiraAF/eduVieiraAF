@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduVieiraAF
 - 👀 I’m interested in getting back into the world of coding and bug-cursing.
-- 📚 I'm fluent in English and Portuguse. I speak a little French and Spanish.
+- 📚 I'm fluent in English and Portuguese. I speak a little French and Spanish.
 - 🌱 I’m currently learning java basics so that I can get reacquainted to the biz.
 - 🧩 I’m looking to collaborate on anything anywhere.
 - 📫 How to reach me: edu_vieira@hotmail.com
