@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eduVieiraAF
+- 👋 Hi, I’m Eduardo (@eduVieiraAF)
 - 👀 I’m interested in getting back into the world of coding and bug-cursing.
 - 📚 I'm fluent in English and Portuguese. I speak a little French and Spanish.
 - 🌱 I’m currently learning java basics so that I can get reacquainted to the biz.
