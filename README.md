@@ -5,7 +5,7 @@
 - English and Portuguese. 
 - I speak a little French and Spanish.
 ## 🧩 I’m looking to collaborate on anything anywhere.
-###### 📫 How to reach me: _edu_vieira@hotmail.com_
+📫 How to reach me: _edu_vieira@hotmail.com_
 
 <!---
 eduVieiraAF/eduVieiraAF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
