@@ -1,6 +1,6 @@
  # 😃 Hi, I’m **Eduardo**
  ## 👀 I’m interested in getting back into the world of coding and bug-cursing.
- - 🌱 I’m currently playing with java so that I can get reacquainted to the biz.
+ - 🌱 Currently working with Java and Kotlin.
  ## 📚 I'm fluent in:
 - English and Portuguese. 
 - I speak a little French and Spanish.
