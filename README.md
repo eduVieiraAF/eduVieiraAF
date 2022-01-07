@@ -1,6 +1,6 @@
  # 😃 Hi, I’m **Eduardo**
  ## 💻 Back into the world of coding after an eternity 🖥
- - 🌱 Currently working with/on Java and Kotlin(mostly Kotlin if i'm being honest.
+ - 🌱 Currently working with/on Java and Kotlin(mostly Kotlin if i'm being honest).
  
  ## 📚 I'm fluent in:
 - English and Portuguese. 
