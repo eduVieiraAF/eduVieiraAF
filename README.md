@@ -4,7 +4,7 @@
  ## 🌱 Currently working with/on: 
  
  - Java;
- - Kotlin (mainly working with/on it;
+ - Kotlin (mainly working with/on it);
  - Solidity (just begun).
  
  ## 📚 I'm fluent in:
