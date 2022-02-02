@@ -7,10 +7,11 @@
  - Solidity (just begun).
   
   ## 🔛 Gracefully grasping:
-   - Database and SQL;
+   - SQL;
+   - Firebase;
    - Retrofit;
    - MVVM;
-   - API;
+   - APIs and things.
  
  ## 📚 I'm fluent in:
 - English and Portuguese;
