@@ -1,11 +1,16 @@
- # 😃 Hi, I’m **Eduardo**
+ # 😃 Hello World, I’m **Eduardo**
  ## 💻 Back into the world of coding 🖥
  
  ## 🌱 Currently working with/on: 
- 
- - Java;
+  - Java;
  - Kotlin (mainly working with/on it);
  - Solidity (just begun).
+  
+  ## 🔛 Gracefully grasping:
+   - Database and SQL;
+   - Retrofit;
+   - MVVM;
+   - API;
  
  ## 📚 I'm fluent in:
 - English and Portuguese;
