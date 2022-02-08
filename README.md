@@ -1,4 +1,5 @@
- # 😃 Hello World, I’m **Eduardo**
+ # 😃 Hello World, I’m **Eduardo**  
+ <a href="https://app.daily.dev/eduVieiraAF"><img src="https://api.daily.dev/devcards/b7eff47c78a34652a8e6b6e1cb984b6b.png?r=cxa" width="400" alt="Eduardo Vieira A. Fonseca's Dev Card"/></a>
  ## 💻 Back into the world of coding 🖥
  
  ## 🌱 Currently working with/on: 
