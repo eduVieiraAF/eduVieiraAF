@@ -1,4 +1,5 @@
  # 😃 Hello World, I’m **Eduardo**  
+ 📫 How to reach me: _edu_vieira@hotmail.com
 
  ## 💻 Recently back in the world of coding 🖥
  
@@ -13,8 +14,7 @@
 - English and Portuguese;
 - I speak a little French and Spanish.
 
-📫 How to reach me: _edu_vieira@hotmail.com_
-
+## Daily.dev card:
 <a href="https://app.daily.dev/eduVieiraAF"><img src="https://api.daily.dev/devcards/b7eff47c78a34652a8e6b6e1cb984b6b.png?r=ahy" width="400" alt="Eduardo Vieira A. Fonseca's Dev Card"/></a>
 
 
