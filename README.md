@@ -1,5 +1,5 @@
- # 😃 Hello World, I’m **Eduardo**  
- 📫 How to reach me: _edu_vieira@hotmail.com
+# 😃 Hello World, I’m **Eduardo**  
+📫  _edu_vieira@hotmail.com_
 
  ## 💻 Recently back in the world of coding 🖥
  
