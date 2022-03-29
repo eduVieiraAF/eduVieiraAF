@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduVieiraAF&layout=compact)](https://github.com/eduVieiraAF/github-readme-stats)
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp-KLLa5l0ZkcD7fkiOkcULKvH5FfjR7hScw&usqp=CAU" width="55" height="55"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGmV4LnJU8AxHneyG90tso1gAWIvqzZph7w&usqp=CAU" width="55" height="55"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJ8siwfnBtikHFg8dEqLESdBLyxWmVPlN4DKjaM1_TW1i4F_KdcWVYlOO16rVIEgPqCk&usqp=CAU" width="55" height="55"/>
+
  ## <img src="https://publicdomainvectors.org/photos/Americas_Globe.png" width="35" height="35"/>  I'm fluent in:
 - English and Portuguese;
 - I speak a little French and Spanish.
