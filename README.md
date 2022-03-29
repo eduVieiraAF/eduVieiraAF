@@ -1,4 +1,4 @@
-# <img src="https://icons-for-free.com/iconfiles/png/512/Coding-1320568096072194118.png" width="65" height="55"/> Hello World, I’m **Eduardo**  
+# <img src="https://icons-for-free.com/iconfiles/png/512/Coding-1320568096072194118.png" width="75" height="65"/> Hello World, I’m **Eduardo**  
 
  ## <img src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/37884.png" width="35" height="35"/>   Recently back in the world of coding 
  
