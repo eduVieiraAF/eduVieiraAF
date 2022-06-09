@@ -9,6 +9,8 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp-KLLa5l0ZkcD7fkiOkcULKvH5FfjR7hScw&usqp=CAU" width="55" height="55"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_taDxkqCzfRfZPcE1UQsmnJpkecpV5b_u5g&usqp=CAU" width="55" height="55"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhP4CSJV5Ertl-qmLPx0sQyyzxKkjxY0p5Pg&usqp=CAU" width="55" height="55"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJ8siwfnBtikHFg8dEqLESdBLyxWmVPlN4DKjaM1_TW1i4F_KdcWVYlOO16rVIEgPqCk&usqp=CAU" width="55" height="55"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hDbbIe63WRwCWAfpzNop86ShXtbRN49Svw&usqp=CAU" width="55" height="55"/>
 
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20CODING-9cf"/>
+
  ## I'm fluent in:
 - English and Portuguese;
 - I speak a little French and Spanish.
