@@ -2,7 +2,7 @@
 
  ## <img src="https://icons-for-free.com/iconfiles/png/512/Coding-1320568096072194118.png" width="45" height="35"/> if (comfortZone) exitNow( ) else carryOn( )
   
- ## Currently working with/on:
+ ## Working on/with:
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.png" width="100" height="50"/>  <img src="https://avatao.com/media/2020/08/1_fnbqF0xNVwINs_RkygkX1g.png" width="100" height="50"/> <img src="https://everyday.codes/wp-content/uploads/2019/12/newpythonlogo.png" width="100" height="50"/> <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" width="100" height="50"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduVieiraAF&layout=compact)](https://github.com/eduVieiraAF/github-readme-stats)
