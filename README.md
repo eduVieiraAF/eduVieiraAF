@@ -3,6 +3,8 @@
  ## <img src="https://icons-for-free.com/iconfiles/png/512/Coding-1320568096072194118.png" width="45" height="35"/> if (comfortZone) exitNow( ) else carryOn( )
   
  ## Working on/with:
+ <a href="https://wakatime.com/@2ef9ae01-1a94-4d6b-9e41-3f816d6e89d1"><img src="https://wakatime.com/badge/user/2ef9ae01-1a94-4d6b-9e41-3f816d6e89d1.svg" alt="Total time coded since Jul 26 2022" /></a>
+ 
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.png" width="100" height="50"/>  <img src="https://avatao.com/media/2020/08/1_fnbqF0xNVwINs_RkygkX1g.png" width="100" height="50"/> <img src="https://everyday.codes/wp-content/uploads/2019/12/newpythonlogo.png" width="100" height="50"/> <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" width="100" height="50"/>
 
 [![eduVieiraAF's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduVieiraAF)](https://github.com/anuraghazra/github-readme-stats)
