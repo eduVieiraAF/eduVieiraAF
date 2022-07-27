@@ -5,7 +5,7 @@
  ## Working on/with:
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.png" width="100" height="50"/>  <img src="https://avatao.com/media/2020/08/1_fnbqF0xNVwINs_RkygkX1g.png" width="100" height="50"/> <img src="https://everyday.codes/wp-content/uploads/2019/12/newpythonlogo.png" width="100" height="50"/> <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" width="100" height="50"/>
 
-[![eduVieiraAF's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduVieiraAF)](https://github.com/anuraghazra/github-readme-stats)
+[![eduVieiraAF's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduVieiraAF)](https://github.com/eduVieiraAF/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduVieiraAF&layout=compact)](https://github.com/eduVieiraAF/github-readme-stats)
 
