@@ -4,7 +4,7 @@
   
  ## Working on/with:
  
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.png" width="100" height="50"/>  <img src="https://avatao.com/media/2020/08/1_fnbqF0xNVwINs_RkygkX1g.png" width="100" height="50"/> <img src="https://everyday.codes/wp-content/uploads/2019/12/newpythonlogo.png" width="100" height="50"/> <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" width="100" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.png" width="100" height="50"/>  <img src="https://avatao.com/media/2020/08/1_fnbqF0xNVwINs_RkygkX1g.png" width="100" height="50"/>  <img src="https://everyday.codes/wp-content/uploads/2019/12/newpythonlogo.png" width="100" height="50"/>  <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" width="100" height="50"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVFC3PPk2GnR2s4LvkoIvt1lQ5QBuZ-m-3jQ&usqp=CAU" width="100" height="50"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduVieiraAF&layout=compact)](https://github.com/eduVieiraAF/github-readme-stats)
 
