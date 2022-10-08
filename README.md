@@ -18,10 +18,6 @@
 - English and Portuguese;
 - I speak a little French and Spanish.
 
-## Daily.dev card:
-<a href="https://app.daily.dev/eduVieiraAF"><img src="https://api.daily.dev/devcards/b7eff47c78a34652a8e6b6e1cb984b6b.png?r=ahy" width="360" alt="Eduardo Vieira A. Fonseca's Dev Card"/></a>
-
-
 
 <!---
 eduVieiraAF/eduVieiraAF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
