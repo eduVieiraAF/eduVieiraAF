@@ -12,7 +12,6 @@
 
 <img src="https://img.shields.io/badge/STATUS-ALWAYS%20CODING-9cf"/> <a href="https://wakatime.com/@2ef9ae01-1a94-4d6b-9e41-3f816d6e89d1"><img src="https://wakatime.com/badge/user/2ef9ae01-1a94-4d6b-9e41-3f816d6e89d1.svg" alt="Total time coded since Jul 26 2022" /></a>
  
-[![eduVieiraAF's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduVieiraAF)](https://github.com/anuraghazra/github-readme-stats)
 
  ## I'm fluent in:
 - English and Portuguese;
