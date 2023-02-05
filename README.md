@@ -1,6 +1,6 @@
 # <img src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/37884.png" width="40" height="40"/> Hello, World!
 
- ## <img src="https://icons-for-free.com/iconfiles/png/512/Coding-1320568096072194118.png" width="45" height="35"/> fun improve() = skillSet.forEach { code(it) }
+ # fun improve() = skillSet.forEach { code(it) }
   
  ## Working on/with:
  
