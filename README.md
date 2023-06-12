@@ -4,7 +4,7 @@
   
  ## Working on/with:
  
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.png" width="100" height="50"/>  <img src="https://avatao.com/media/2020/08/1_fnbqF0xNVwINs_RkygkX1g.png" width="100" height="50"/>  <img src="https://everyday.codes/wp-content/uploads/2019/12/newpythonlogo.png" width="100" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVhJSgauMK1efXuOQQl0c8fkkkafnjp36qQ&usqp=CAU" width="100" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfl_CyKj9ndat-ry0u3Hz3-nWe9c-ytU6YUg&usqp=CAU" width="100" height="50"/>
+<img src="https://avatao.com/media/2020/08/1_fnbqF0xNVwINs_RkygkX1g.png" width="100" height="50"/>  <img src="https://everyday.codes/wp-content/uploads/2019/12/newpythonlogo.png" width="100" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVhJSgauMK1efXuOQQl0c8fkkkafnjp36qQ&usqp=CAU" width="100" height="50"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfl_CyKj9ndat-ry0u3Hz3-nWe9c-ytU6YUg&usqp=CAU" width="100" height="50"/> <img src="https://learntocodewith.me/wp-content/uploads/2021/09/mern-1024x536.png" width="100" height="50"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduVieiraAF)](https://github.com/eduVieiraAF/github-readme-stats)
 
